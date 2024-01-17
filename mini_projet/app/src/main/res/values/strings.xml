@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">mini_projet!</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <string name="back4app_app_id">xKWR4kF8GRsbzm1m24oKqJ6lOVz4DA9ZJw2hG6zh</string>
+    <string name="back4app_client_key">gmH6FMY0mkSl991neyAclSDN6bludhU1R5OZ03re</string>
+    <!-- Paste BOTH strings as required -->
+
+</resources>
